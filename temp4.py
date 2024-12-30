@@ -1,2 +1,2 @@
 print("eaihfoei")
-print("eaihfoei")
+print("Osaka")
